@@ -75,11 +75,11 @@ A plug-and-play solution for presales team management integrated directly into t
 <p>This project was developed by a group of seven senior Computer Science majors at CSU Sacramento.</p>
 
 <ul>
-    <li> <strong><a href="https://github.com/kchelms95">Kendall Helms</a></strong> <i> - Project Lead</i> </li>
-    <li> <strong>Alexander Alestra</strong> <i> - Product Owner</i> </li>
-    <li> <strong>Daniel Diep</strong> </li>
-    <li> <strong>Ye Yint Nay Htet</strong> </li>
-    <li> <strong>Matt Randell Mazon</strong> </li>
-    <li> <strong>Anuj Regmi</strong> </li>
-    <li> <strong>Timothy Thao</strong> </li>
+    <li> <strong> <a href="https://github.com/kchelms95">Kendall Helms</a> </strong> <i> - Project Lead</i> </li>
+    <li> <strong> <a href="https://github.com/AlexAlestra100">Alexander Alestra</a> </strong> <i> - Product Owner</i> </li>
+    <li> <strong> <a href="https://github.com/danieldiep1">Daniel Diep</a> </strong> </li>
+    <li> <strong> <a href="https://github.com/yeyintnayhtet">Ye Yint Nay Htet</a> </strong> </li>
+    <li> <strong> <a href="https://github.com/mmazon-97">Matt Randell Mazon</a> </strong> </li>
+    <li> <strong> <a href="https://github.com/anujregmi1">Anuj Regmi</a> </strong> </li>
+    <li> <strong> <a href="https://github.com/TimothyThao">Timothy Thao</a> </strong> </li>
 </ul>
