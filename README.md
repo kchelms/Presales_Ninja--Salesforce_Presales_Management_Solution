@@ -75,7 +75,7 @@ A plug-and-play solution for presales team management integrated directly into t
 <p>This project was developed by a group of seven senior Computer Science majors at CSU Sacramento.</p>
 
 <ul>
-    <li> <strong href="https://github.com/kchelms95">Kendall Helms</strong> <i> - Project Lead</i> </li>
+    <li> <strong><a href="https://github.com/kchelms95">Kendall Helms</a></strong> <i> - Project Lead</i> </li>
     <li> <strong>Alexander Alestra</strong> <i> - Product Owner</i> </li>
     <li> <strong>Daniel Diep</strong> </li>
     <li> <strong>Ye Yint Nay Htet</strong> </li>
