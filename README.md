@@ -56,7 +56,7 @@ A plug-and-play solution for presales team management integrated directly into t
 
 <p>Public Hosting</p>
 <ul>
-    <li>AWS (ec2, Classic Load Balancer, route53)</li>
+    <li>AWS (ec2, Network Load Balancer, route53)</li>
     <li>Docker</li>
     <li>Nginx</li>
 </ul>
